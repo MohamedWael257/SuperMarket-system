@@ -1,0 +1,18 @@
+	 Welcome To Super Market
+==================================== 
+	 B.NUM  :1789
+	 NAME   :mohamed
+	 PHONE  :53156231
+====================================
+Purchases	    number	       price 
+====================================
+Beans	        20	            10.0$
+Freekeh	        2	            4$
+Chickpeas	      2	            4$
+Knife	        7	            77$
+A Pot	        2	            40$
+Spoon	        1	            15$
+Mixing Bowl	    2	            46$
+Ceiling Fan	    5	            50$
+====================================
+	               Total: 246.0$

@@ -1,0 +1,13 @@
+	 Welcome To Super Market
+==================================== 
+	 B.NUM  :2106
+	 NAME   :mohamed
+	 PHONE  :5461226
+====================================
+Purchases	    number	       price 
+====================================
+lentils	        8	            8$
+Plate	        4	            200$
+Fork	        14	            210$
+Blender	        22	            330$
+Ceiling Fan	    8	            80$

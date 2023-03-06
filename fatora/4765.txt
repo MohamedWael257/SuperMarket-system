@@ -1,0 +1,12 @@
+	 Welcome To Super Market
+==================================== 
+	 B.NUM  :4765
+	 NAME   :mohamed
+	 PHONE  :453912
+====================================
+Purchases	    number	       price 
+====================================
+Freekeh	        7	            14$
+Basket	        1	            10$
+Blender	        5	            75$
+Ceiling Fan	    2	            20$
